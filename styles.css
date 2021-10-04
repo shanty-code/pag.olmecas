@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background: gray;
+}
+
+img{
+    width: 10%;
+    height: auto;
+    position: absolute;
+    
+}
